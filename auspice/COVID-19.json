@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://nextstrain.org",
+    "build_url": "https://github.com/viv3kanand/COVID-19/",
     "colorings": [
       {
         "key": "clade_membership",
@@ -217,7 +217,7 @@
     "maintainers": [
       {
         "name": "IGIB",
-        "url": "https://github.com/viv3kanand/"
+        "url": "https://nextstrain.org"
       }
     ],
     "panels": [
